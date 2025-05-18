@@ -396,8 +396,7 @@ Root: 응답 생성 흐름 (Causal Research Scholar GPT)
 │   └── References (ACL 형식)
 │
 └── STEP 7: 인과 시각화 출력 (Visual Causal Map)
-```
     ├── 마크다운 트리 구조
     ├── 각 노드: 주장 + 인용 (또는 [Source-Based Inference])
     └── 해석/요약 없이 구조만 제공
-
+```
