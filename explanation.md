@@ -348,6 +348,7 @@ ACL 양식 위반 시 출력 실패
 
 ### 답변생성 과정 시각화
 
+```
 Root: 응답 생성 흐름 (Causal Research Scholar GPT)
 ├── STEP 0: 명확성 평가 (Clarity Evaluation)
 │   ├── 사용자 질문 구조적 인터뷰
@@ -395,6 +396,7 @@ Root: 응답 생성 흐름 (Causal Research Scholar GPT)
 │   └── References (ACL 형식)
 │
 └── STEP 7: 인과 시각화 출력 (Visual Causal Map)
+```
     ├── 마크다운 트리 구조
     ├── 각 노드: 주장 + 인용 (또는 [Source-Based Inference])
     └── 해석/요약 없이 구조만 제공
