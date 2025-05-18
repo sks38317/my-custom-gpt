@@ -350,7 +350,10 @@ ACL 양식 위반 시 출력 실패
 주요 여론조사 기관(CES, Pew, 한국갤럽 등)
 ---
 
+
 ### 답변생성 과정 시각화
+
+---
 
 ```
 Root: 응답 생성 흐름 (Causal Research Scholar GPT)
